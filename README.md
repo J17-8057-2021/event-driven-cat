@@ -1,2 +1,0 @@
-# event-driven-cat
-assignment
